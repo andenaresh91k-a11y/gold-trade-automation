@@ -42,7 +42,7 @@ const HeroSection = () => {
 
         {/* Main title */}
         <h1 className="text-4xl sm:text-5xl md:text-7xl font-display font-bold tracking-tight mb-6">
-          <span className="text-gold-gradient">EA SMART GOLD X</span>
+          <span className="text-gold-gradient">Royal Gold Algo</span>
         </h1>
 
         <p className="text-xl sm:text-2xl md:text-3xl font-display text-foreground/90 mb-4">

@@ -15,13 +15,13 @@ const DisclaimerSection = () => {
                   Important Disclaimer
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  EA Smart Gold X is an automated trading code designed to assist users in executing 
+                  Royal Gold Algo is an automated trading code designed to assist users in executing 
                   their trading strategies more efficiently. Please note that this code does not 
                   guarantee profits or eliminate the risks associated with trading financial markets. 
                   Trading involves market risk, including the potential loss of capital. Users are 
-                  solely responsible for their trading decisions, and Smart Gold X, its developers, 
+                  solely responsible for their trading decisions, and Royal Gold Algo, its developers, 
                   and affiliates shall not be held liable for any financial losses. We strongly 
-                  recommend users to practice responsible trading and, if needed, seek advice from 
+                  recommend users to practice responsible trading and, if needed, seek advice from
                   a certified financial advisor before using our product.
                 </p>
                 <p className="text-primary mt-4 font-medium">
