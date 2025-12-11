@@ -7,44 +7,44 @@ import {
 
 const faqs = [
   {
-    question: "Ye code kis market me trade karta hai?",
-    answer: "Ye code specially XAUUSD (Gold vs USD) pair me trade karta hai, aur Cent Account ke liye optimized hai.",
+    question: "Which market does this code trade in?",
+    answer: "This code is specially designed to trade the XAUUSD (Gold vs USD) pair and is optimized for Cent Accounts.",
   },
   {
-    question: "Minimum investment kitni chahiye?",
-    answer: "Aap sirf 10,000 cent (≈ $100) se start kar sakte ho.",
+    question: "What is the minimum investment required?",
+    answer: "You can start with just 10,000 cents (approximately $100).",
   },
   {
-    question: "Kya code 24/7 chalta hai?",
-    answer: "Ye code Monday to Friday (24/5) auto trade karta hai. Weekend (Saturday-Sunday) me forex market band hota hai.",
+    question: "Does the code run 24/7?",
+    answer: "This code auto-trades from Monday to Friday (24/5). The forex market is closed on weekends (Saturday-Sunday).",
   },
   {
-    question: "Kya mujhe hamesha laptop/PC on rakhna padega?",
-    answer: "Nahi, aap robot ko VPS (Virtual Private Server) par chala sakte ho. Fir wo 24 hours chalti rahegi bina laptop on rakhe.",
+    question: "Do I need to keep my laptop/PC on all the time?",
+    answer: "No, you can run the robot on a VPS (Virtual Private Server). It will run 24 hours without needing to keep your laptop on.",
   },
   {
-    question: "Profit guarantee karta ha kya code?",
-    answer: "Forex market risky hota hai, isliye koi 100% guarantee nahi. Lekin code risk management ke saath consistent results dene ke liye bana hai.",
+    question: "Does the code guarantee profits?",
+    answer: "The forex market is risky, so there's no 100% guarantee. However, the code is built to deliver consistent results with proper risk management.",
   },
   {
-    question: "Setup karna mushkil hai kya?",
-    answer: "Bilkul nahi. Sirf ek baar setup karna hota hai, fir robot fully automated chalti hai. Jiske liye hum aapko video bana kar dete hai ki kaise setup karna hai.",
+    question: "Is the setup difficult?",
+    answer: "Not at all. You only need to set it up once, and then the robot runs fully automated. We provide a video tutorial showing exactly how to set it up.",
   },
   {
-    question: "Kya main manual trading bhi kar sakta hoon iske sath?",
-    answer: "Haan, lekin recommend yahi hai ki robot ko apna kaam karne do. Manual trade karoge toh results effect ho sakte hain.",
+    question: "Can I do manual trading alongside this?",
+    answer: "Yes, but we recommend letting the robot do its work. Manual trading may affect the results.",
   },
   {
-    question: "Kya ye code har broker ke sath chalega?",
-    answer: "Ye code Cent Account supported brokers par hi best work karta hai.",
+    question: "Will this code work with any broker?",
+    answer: "This code works best with brokers that support Cent Accounts.",
   },
   {
-    question: "Agar internet disconnect ho gaya toh?",
-    answer: "Isliye VPS recommended hai. VPS par robot bina rukhe chalta hai chahe aapka internet off ho.",
+    question: "What if my internet disconnects?",
+    answer: "This is why VPS is recommended. The robot continues running on VPS even if your internet goes off.",
   },
   {
-    question: "Code ka update aata hai kya?",
-    answer: "Haan, time-to-time updates diye jaate hain taaki performance aur better ho.",
+    question: "Does the code receive updates?",
+    answer: "Yes, updates are provided from time to time to improve performance.",
   },
 ];
 
