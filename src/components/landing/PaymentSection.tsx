@@ -7,7 +7,7 @@ const PaymentSection = () => {
       <div className="container px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-5xl font-display font-bold text-gold-gradient mb-4">
-            Get EA Smart Gold X
+            Get Royal Gold Algo
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Instant access after payment confirmation

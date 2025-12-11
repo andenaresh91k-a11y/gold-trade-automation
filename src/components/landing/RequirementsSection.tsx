@@ -32,7 +32,7 @@ const RequirementsSection = () => {
             Requirements
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            What you need to get started with EA Smart Gold X
+            What you need to get started with Royal Gold Algo
           </p>
         </div>
 

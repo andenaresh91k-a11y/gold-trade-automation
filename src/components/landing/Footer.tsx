@@ -6,7 +6,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="text-center md:text-left">
             <h3 className="text-xl font-display font-bold text-gold-gradient">
-              EA SMART GOLD X
+              Royal Gold Algo
             </h3>
             <p className="text-sm text-muted-foreground mt-1">
               Automated Forex Coding Guide
@@ -29,7 +29,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="text-center md:text-right">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} EA Smart Gold X. All rights reserved.
+              © {new Date().getFullYear()} Royal Gold Algo. All rights reserved.
             </p>
           </div>
         </div>
