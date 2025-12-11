@@ -5,25 +5,25 @@ const testimonials = [
     name: "Ravi",
     location: "Delhi",
     rating: 5,
-    text: "Maine sirf 10,000 cent se start kiya aur XAUUSD trading me robot ne kamaal kar diya. VPS par chalaya toh bina rukhe 24/5 trade hua. Bilkul tension-free profit!",
+    text: "I started with just 10,000 cents and the robot did amazing work in XAUUSD trading. Ran it on VPS and it traded 24/5 non-stop. Completely stress-free profits!",
   },
   {
     name: "Pooja",
     location: "Surat",
     rating: 5,
-    text: "Mere paas charts dekhne ka time nahi tha. Ye forex robot set karke VPS par chala diya, ab wo khud hi trade karta hai. Just monitoring karna padta hai.",
+    text: "I didn't have time to watch charts. I set up the forex robot on VPS and now it trades automatically. I just need to monitor occasionally.",
   },
   {
     name: "Ankit",
     location: "Mumbai",
     rating: 5,
-    text: "Pehle manual trading me hamesha loss hota tha. Ab robot ke saath stable profit dekh raha hoon. Small account me bhi mast result deta hai.",
+    text: "I always had losses in manual trading before. Now with the robot, I'm seeing stable profits. It gives great results even with a small account.",
   },
   {
     name: "Sandeep",
     location: "Lucknow",
     rating: 4,
-    text: "XAUUSD ki fast moves pakadna easy nahi hota. Lekin robot ne trading simple aur smart bana di. Risk bhi properly manage karta hai.",
+    text: "Catching XAUUSD's fast moves isn't easy. But the robot made trading simple and smart. It also manages risk properly.",
   },
 ];
 
